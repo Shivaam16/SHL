@@ -1,5 +1,5 @@
 
-# Grammar Scoring Project (VS Code Ready)
+# Grammar Scoring Project 
 
 ## How to Run
 
